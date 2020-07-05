@@ -70,7 +70,7 @@ public class AnimowanaRamka extends JFrame {
    @Override
    public void actionPerformed(ActionEvent e) {
     
-    panel.setBackground(new Color(i,120,240));
+    panel.setBackground(new Color(i,200,50));
     i++;
     
     if (i>=255) {
